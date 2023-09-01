@@ -1,9 +1,9 @@
 # md5.luhui.net
 
 
-鲁虺在线MD5加密工具 
+在线MD5加密工具 
 
-http://md5.luhui.net 
+https://md5.cnoo.eu.org/
 
 工欲善其事，必先利其器。"——孔子《论语·卫灵公》
 
